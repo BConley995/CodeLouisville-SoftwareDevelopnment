@@ -1,0 +1,15 @@
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\bin\Debug\net6.0\CodeLouIntro.exe
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\bin\Debug\net6.0\CodeLouIntro.deps.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\bin\Debug\net6.0\CodeLouIntro.runtimeconfig.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\bin\Debug\net6.0\CodeLouIntro.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\bin\Debug\net6.0\CodeLouIntro.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.csproj.AssemblyReference.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.AssemblyInfo.cs
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\refint\CodeLouIntro.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\CodeLouIntro.genruntimeconfig.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\C# Day 1\CodeLouIntro\obj\Debug\net6.0\ref\CodeLouIntro.dll
