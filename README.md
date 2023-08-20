@@ -15,7 +15,7 @@ Within this repository, you'll find a diverse range of projects, each nested wit
 ### Projects Included:
 
 - **Pet Store Management System**: A console application to manage pet products in a store.
-  - [Link to Project](./PetStoreManagementSystem)
+
 - *(Other projects will be listed similarly as they are added to the repository.)*
 
 ## Usage
