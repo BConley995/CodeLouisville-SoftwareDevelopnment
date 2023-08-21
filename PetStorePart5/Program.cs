@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Text.Json;
-using PetStorePart5;
+using PetStorePart6;
 
-namespace PetStorePart5
+namespace PetStorePart6
 {
     internal class Program
     {

@@ -1,0 +1,15 @@
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\bin\Debug\net6.0\PetStorePart5.exe
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\bin\Debug\net6.0\PetStorePart5.deps.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\bin\Debug\net6.0\PetStorePart5.runtimeconfig.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\bin\Debug\net6.0\PetStorePart5.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\bin\Debug\net6.0\PetStorePart5.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.csproj.AssemblyReference.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.AssemblyInfo.cs
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\refint\PetStorePart5.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\PetStorePart5.genruntimeconfig.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart5\obj\Debug\net6.0\ref\PetStorePart5.dll
