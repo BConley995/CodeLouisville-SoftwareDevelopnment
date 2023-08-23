@@ -39,12 +39,12 @@ namespace PetStorePart6
 
         public List<Product> GetOnlyInStockProducts()
         {
-            return _products.Where(p => p.Quantity > 0).ToList();
+            return _products.InStock().ToList();
         }
 
         public decimal GetTotalPriceOfInventory()
         {
-            return _products.Where(p => p.Quantity > 0).Select(p => p.Price * p.Quantity).Sum();
+            return _products.InStock().Select(p => p.Price).Sum();
         }
     }
 }

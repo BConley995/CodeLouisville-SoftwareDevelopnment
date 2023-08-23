@@ -2,14 +2,12 @@
 {
     internal class DogLeash : Product
     {
-        /// <summary>
-        /// Gets or sets the length of the dog leash in inches.
-        /// </summary>
+        
+        /// Gets or sets the length of the dog leash in inches.       
         public int LengthInches { get; set; }
 
-        /// <summary>
-        /// Gets or sets the material of the dog leash.
-        /// </summary>
+        
+        /// Gets or sets the material of the dog leash.      
         public string Material { get; set; }
     }
 }

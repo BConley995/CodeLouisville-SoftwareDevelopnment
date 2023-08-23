@@ -9,9 +9,8 @@ namespace PetStorePart6
     internal class DryCatFood : CatFood
     {
 
-        /// <summary>
-        /// Gets or sets the weight of the dry cat food in pounds.
-        /// </summary>
+        
+        /// Gets or sets the weight of the dry cat food in pounds.     
         public double WeightPounds { get; set; }
     }
 }

@@ -3,35 +3,22 @@
 namespace PetStorePart6
 {
     internal interface IProductLogic
-    {
-        /// <summary>
-        /// Adds a product to the collection.
-        /// </summary>
-        void AddProduct(Product product);
-
-        /// <summary>
-        /// Retrieves all products.
-        /// </summary>
+    {      
+        /// Adds a product to the collection.       
+        void AddProduct(Product product);       
+        /// Retrieves all products.      
         List<Product> GetAllProducts();
-
-        /// <summary>
-        /// Retrieves a DogLeash product by its name.
-        /// </summary>
+      
+        /// Retrieves a DogLeash product by its name.       
         DogLeash GetDogLeashByName(string name);
-
-        /// <summary>
-        /// Retrieves a CatFood product by its name.
-        /// </summary>
+      
+        /// Retrieves a CatFood product by its name.       
         CatFood GetCatFoodByName(string name);
-
-        /// <summary>
-        /// Retrieves a only In Stock products by name.
-        /// </summary>
+       
+        /// Retrieves a only In Stock products by name.      
         List<Product> GetOnlyInStockProducts();
 
-        /// <summary>
-        /// Displays total price of all in stock inventory.
-        /// </summary>
+        /// Displays total price of all in stock inventory.      
         decimal GetTotalPriceOfInventory();
     }
 }

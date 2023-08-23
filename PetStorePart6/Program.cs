@@ -9,7 +9,8 @@ namespace PetStorePart6
     {
         static void Main(string[] args)
         {
-            // Initialize product logic for CRUD operations
+
+            // Initialize product logic
             ProductLogic productLogic = new ProductLogic();
 
             while (true)
@@ -49,9 +50,8 @@ namespace PetStorePart6
             }
         }
 
-        /// <summary>
-        /// Displays the main menu options to the user.
-        /// </summary>
+        
+        /// Displays the main menu options to the user.     
         static void PrintMenu()
         {
             Console.WriteLine("\nMENU:");
@@ -66,9 +66,8 @@ namespace PetStorePart6
             Console.Write("Enter choice: ");
         }
 
-        /// <summary>
-        /// Prompts the user to add a wet cat food item and saves it.
-        /// </summary>
+        
+        /// Prompts the user to add a wet cat food item and saves it.       
         static void AddWetCatFood(ProductLogic logic)
         {
             CatFood catFood = PromptForProductDetails(new CatFood()) as CatFood;
@@ -76,9 +75,8 @@ namespace PetStorePart6
             Console.WriteLine("Wet cat food added successfully!");
         }
 
-        /// <summary>
-        /// Prompts the user to add a dry cat food item and saves it.
-        /// </summary>
+        
+        /// Prompts the user to add a dry cat food item and saves it.       
         static void AddDryCatFood(ProductLogic logic)
         {
             DryCatFood dryCatFood = PromptForProductDetails(new DryCatFood()) as DryCatFood;
@@ -86,9 +84,8 @@ namespace PetStorePart6
             Console.WriteLine("Dry cat food added successfully!");
         }
 
-        /// <summary>
-        /// Prompts the user to add a dog leash item and saves it.
-        /// </summary>
+        
+        /// Prompts the user to add a dog leash item and saves it.       
         static void AddDogLeash(ProductLogic logic)
         {
             DogLeash dogLeash = PromptForProductDetails(new DogLeash()) as DogLeash;
@@ -96,9 +93,8 @@ namespace PetStorePart6
             Console.WriteLine("Dog leash added successfully!");
         }
 
-        /// <summary>
-        /// Prompts the user for product details based on the type of product.
-        /// </summary>
+        
+        /// Prompts the user for product details based on the type of product.      
         static Product PromptForProductDetails(Product product)
         {
             Console.Write("Enter product name: ");
@@ -130,9 +126,8 @@ namespace PetStorePart6
             return product;
         }
 
-        /// <summary>
-        /// Displays the details of a specific dog leash based on the given name.
-        /// </summary>
+        
+        /// Displays the details of a specific dog leash based on the given name.      
         static void DisplayDogLeash(ProductLogic logic)
         {
             Console.Write("Enter dog leash name: ");
@@ -141,9 +136,8 @@ namespace PetStorePart6
             DisplayProductDetails(dogLeash);
         }
 
-        /// <summary>
-        /// Displays the details of a specific cat food item based on the given name.
-        /// </summary>
+        
+        /// Displays the details of a specific cat food item based on the given name.        
         static void DisplayCatFood(ProductLogic logic)
         {
             Console.Write("Enter cat food name: ");
@@ -152,18 +146,16 @@ namespace PetStorePart6
             DisplayProductDetails(catFood);
         }
 
-        /// <summary>
-        /// Prints the product details in a formatted way.
-        /// </summary>
+        
+        /// Prints the product details in a formatted way.       
         static void DisplayProductDetails(Product product)
         {
             if (product != null) Console.WriteLine(JsonSerializer.Serialize(product, new JsonSerializerOptions { WriteIndented = true }));
             else Console.WriteLine("Product not found.");
         }
 
-        /// <summary>
-        /// Displays a list of products that are currently in stock.
-        /// </summary>
+        
+        /// Displays a list of products that are currently in stock.      
         static void DisplayInStockProducts(ProductLogic logic)
         {
             var products = logic.GetOnlyInStockProducts();
@@ -175,9 +167,8 @@ namespace PetStorePart6
             else Console.WriteLine("No products in stock.");
         }
 
-        /// <summary>
-        /// Displays the total value of all items in the inventory.
-        /// </summary>
+        
+        /// Displays the total value of all items in the inventory.      
         static void DisplayTotalInventoryValue(ProductLogic logic)
         {
             Console.WriteLine($"Total inventory value: {logic.GetTotalPriceOfInventory():C}");
