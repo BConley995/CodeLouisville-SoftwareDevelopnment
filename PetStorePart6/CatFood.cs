@@ -1,6 +1,6 @@
 ﻿namespace PetStorePart6
 {
-    internal class CatFood : Product
+    public class CatFood : Product
     {
         
         /// Gets or sets a value indicating whether the food is suitable for kittens.

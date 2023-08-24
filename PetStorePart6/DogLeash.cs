@@ -1,6 +1,6 @@
 ﻿namespace PetStorePart6
 {
-    internal class DogLeash : Product
+    public class DogLeash : Product
     {
         
         /// Gets or sets the length of the dog leash in inches.       

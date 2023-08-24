@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace PetStorePart6
 {
-    internal class ProductLogic : IProductLogic
+    public class ProductLogic : IProductLogic
     {
         private List<Product> _products;
 
