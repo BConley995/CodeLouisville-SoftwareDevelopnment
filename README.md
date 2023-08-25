@@ -14,9 +14,9 @@ Within this repository, you'll find a diverse range of projects, each nested wit
 
 ### Projects Included:
 
-- **Pet Store Management System**: A console application to manage pet products in a store.
+- **Pet Store Management System**: A console application to manage pet products in a store, created in stages following weekly exercises.
 
-- *(Other projects will be listed similarly as they are added to the repository.)*
+- **Software 1 Knowledge Check**: A console application to test current skill set based of what was learned up to this point in class.
 
 ## Usage
 
