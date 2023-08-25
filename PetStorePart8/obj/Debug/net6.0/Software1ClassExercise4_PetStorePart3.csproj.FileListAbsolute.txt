@@ -1,0 +1,15 @@
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.csproj.AssemblyReference.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.AssemblyInfo.cs
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\bin\Debug\net6.0\Software1ClassExercise4_PetStorePart3.exe
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\bin\Debug\net6.0\Software1ClassExercise4_PetStorePart3.deps.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\bin\Debug\net6.0\Software1ClassExercise4_PetStorePart3.runtimeconfig.json
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\bin\Debug\net6.0\Software1ClassExercise4_PetStorePart3.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\bin\Debug\net6.0\Software1ClassExercise4_PetStorePart3.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\refint\Software1ClassExercise4_PetStorePart3.dll
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.pdb
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\Software1ClassExercise4_PetStorePart3.genruntimeconfig.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\Software1ClassExercise4_PetStorePart3\obj\Debug\net6.0\ref\Software1ClassExercise4_PetStorePart3.dll

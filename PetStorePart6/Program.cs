@@ -1,6 +1,6 @@
-﻿using PetStorePart6;
+﻿using PetStorePart7;
 
-namespace PetStorePart6
+namespace PetStorePart7
 {
     internal class Program
     {
