@@ -1,0 +1,6 @@
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\obj\Debug\net6.0\PetStore.Tests.csproj.AssemblyReference.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\obj\Debug\net6.0\PetStore.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\obj\Debug\net6.0\PetStore.Tests.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\obj\Debug\net6.0\PetStore.Tests.AssemblyInfo.cs
+C:\Users\bryan\Documents\Projects\CodeLouisville\PetStorePart10\PetStore\PetStore.Tests\obj\Debug\net6.0\PetStore.Tests.csproj.CoreCompileInputs.cache
