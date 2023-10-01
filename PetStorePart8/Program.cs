@@ -1,7 +1,7 @@
-﻿using PetStorePart8;
+﻿using PetStorePart9;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace PetStorePart8
+namespace PetStorePart9
 {
     internal class Program
     {
