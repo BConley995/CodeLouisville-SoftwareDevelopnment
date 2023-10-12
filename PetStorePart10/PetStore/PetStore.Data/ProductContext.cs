@@ -12,9 +12,9 @@ namespace PetStore.Data
 
         public ProductContext()
         {
-            var folder = Environment.SpecialFolder.LocalApplicationData;
-            var path = Environment.GetFolderPath(folder);
-            DbPath = System.IO.Path.Join(path, "products.db");
+            var path = Directory.GetCurrentDirectory();
+            DbPath = Path.Join(path, "products.db");
+            Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options) =>
